@@ -1,7 +1,8 @@
 ## Hi there 👋
 ### 🔭 I’m working on
 
-- Photovoltaic reliability at NREL
+- Photovoltaic (PV) reliability at NREL
+- Embedded R&D at Negative Supply
 - Studying at the Colorado School of Mines
 
 ### 📫 How to reach me
