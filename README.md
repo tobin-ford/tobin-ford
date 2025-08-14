@@ -2,8 +2,7 @@
 I'm a **CS student** at Colorado School of Mines, interested in **embedded systems, photovoltaics, and high-performance computing**.
 
 ### 🔭 I’m working on
-- Software @ Parsons
-<!-- - ☀️ **Photovoltaic Reliability** @ *NREL*  -->
+- ☀️ **PV Reliability and Computational Science** @ *NREL*
 - 🎓 Studying **Computer Science** @ *Colorado School of Mines*
 
 
