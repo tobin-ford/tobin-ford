@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a **CS student** at Colorado School of Mines, interested in **embedded systems, photovoltaics, and high-performance computing**.
+I'm a **CS student** at Colorado School of Mines, interested in **machine learning, deep learning, photovoltaics, and high-performance computing**.
 
 ### 🔭 I’m working on
 - ☀️ **PV Reliability and Computational Science** @ *NREL*
